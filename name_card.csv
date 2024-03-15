@@ -1,0 +1,15 @@
+Ref,Qnty,Value,Cmp name,Footprint,Description,Vendor
+C1,1,300u,C_Polarized,Capacitor_THT:CP_Radial_D10.0mm_P5.00mm,Polarized capacitor,https://akizukidenshi.com/catalog/g/g102719/
+D1,1,D,D,Diode_THT:D_DO-15_P10.16mm_Horizontal,Diode,https://akizukidenshi.com/catalog/g/g116384/
+"D2, D3, D4, D5, D6, D7, D8, D9, D10, D11, D12, D13, D14, D15, D16, D17, D18, D19",18,LED,LED,LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder,Light emitting diode,https://akizukidenshi.com/catalog/g/g111882/
+F1,1,Fuse_Polarized,Fuse_Polarized,Fuse:Fuse_Bourns_MF-RG400,Polarized fuse,https://akizukidenshi.com/catalog/g/g113585/
+J1,1,USB_C_Receptacle_PowerOnly_6P,USB_C_Receptacle_PowerOnly_6P,Connector_USB:USB_C_Receptacle_GCT_USB4125-xx-x_6P_TopMnt_Horizontal,USB Type-Cコネクタ 電源供給用,https://akizukidenshi.com/catalog/g/g116438/
+R1,1,1k,R,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,Resistor,https://www.amazon.co.jp/dp/B08RYNWTT9
+"R2, R3",2,5.1k,R,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,Resistor,https://www.amazon.co.jp/dp/B08RYNWTT9
+R4,1,10k,R,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,Resistor,https://www.amazon.co.jp/dp/B08RYNWTT9
+R5,1,20k,R,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,Resistor,https://www.amazon.co.jp/dp/B08RYNWTT9
+R6,1,47k,R,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,Resistor,https://www.amazon.co.jp/dp/B08RYNWTT9
+R7,1,100k,R,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,Resistor,https://www.amazon.co.jp/dp/B08RYNWTT9
+R8,1,200k,R,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,Resistor,https://www.amazon.co.jp/dp/B08RYNWTT9
+"R9, R10, R11, R12, R13, R14, R15, R16, R17, R18, R19, R20, R21, R22, R23, R24, R25, R26",18,3.6k,R,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,Resistor,https://www.amazon.co.jp/gp/product/B0BM9FJBK1
+U1,1,~,CH221K,Package_TO_SOT_SMD:SOT-23-6_Handsoldering,USB PD シンクコントローラー CH221K,https://akizukidenshi.com/catalog/g/g118022/
